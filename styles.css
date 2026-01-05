@@ -2,6 +2,7 @@
 .cards{
 	display:flex;
 	justify-content:flex-end;
+	align-items:flex-end;
 	flex-wrap:wrap;
 	}
 
